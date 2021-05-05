@@ -1,0 +1,41 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  max-width: 75rem;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2rem;
+  justify-content: center;
+  margin-top: 4rem;
+}
+
+.card {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  height: 20rem;
+  width: 15rem;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+  border-radius: 10px;
+}
+
+.contentContainer {
+  margin: 1rem;
+}
+
+.img {
+  margin-top: 1rem;
+}
+
+.imgTitle {
+  margin-top: 1rem;
+  width: 10rem;
+}
+
+/* .inside {
+  display: flex;
+} */

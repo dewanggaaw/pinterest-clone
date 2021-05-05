@@ -1,0 +1,10 @@
+.imgDetails {
+  height: 10rem;
+  width: 10rem;
+}
+
+.detailsContainer {
+  /* background-color: gray; */
+  display: flex;
+  margin-top: 7em;
+}
